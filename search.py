@@ -3,7 +3,7 @@ target =12
 
 for i in range (len(arr)):
     if arr[i] == target:
-        print("found at index",arr[i])
+        print("found index",arr[i])
         break
 else:
     print("Not Found")

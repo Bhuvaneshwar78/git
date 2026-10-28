@@ -1,1 +1,1 @@
-this is the first command
+this is the first command in git and github project

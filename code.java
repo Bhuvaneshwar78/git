@@ -8,5 +8,7 @@ public class Code {
         System.out.println("Multiplication of  numbers: " + (firstNumber * secondNumber));
         System.out.println("Division of  numbers: " + ((double) firstNumber / secondNumber));
         System.out.println("Remainder of  numbers: " + (firstNumber % secondNumber));
+        System.out.println("hello world");
+
     }
 }

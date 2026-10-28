@@ -6,4 +6,4 @@ for i in range (len(arr)):
         print("found at index",arr[i])
         break
 else:
-    print("Not Found")
+    print("Not Found  at the index")
